@@ -6,4 +6,4 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    BOT_TOKEN = os.environ.get("
+    BOT_TOKEN = os.environ.get("8090512976:AAG2YzAoriXV39xJhWgvywQpd4DEDnJN-Xw")
