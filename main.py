@@ -46,7 +46,7 @@
 
 import os
 
-from config import Config
+
 
 from pyrogram import Client, idle
 
