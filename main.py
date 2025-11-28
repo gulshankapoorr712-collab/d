@@ -105,11 +105,11 @@ if __name__ == "__main__" :
 
         "StarkBot",
 
-        bot_token=Config.BOT_TOKEN,
+        bot_token=Config.BOT_TOKEN,8090512976:AAG2YzAoriXV39xJhWgvywQpd4DEDnJN-Xw
 
-        api_id=Config.API_ID,
+        api_id=Config.API_ID,12217554
 
-        api_hash=Config.API_HASH,
+        api_hash=Config.API_HASH,3f0f161f48f440f87266f397c656e521
 
         sleep_threshold=20,
 
